@@ -105,8 +105,8 @@ venv.bak/
 
 
 #Added by Vladislav
-input/
-output/
+bin/*
+data/*
 
 
 
